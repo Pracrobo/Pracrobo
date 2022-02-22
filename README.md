@@ -1,5 +1,12 @@
-SKILLS
+SKILLS(:Language/DB)
 
+- Java 
+- Spring Boot + MyBatis
+- HTML, CSS, JavaScript
+- Oracle
+
+
+EDUCATION
 
 
 
