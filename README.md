@@ -1,16 +1,29 @@
+<a href="https://hxxxxxl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FDFEFE?style=?style=social&logo=appveyor&logo=#20C997&logoColor=17202A"/></a>
 
-SKILLS(:Language/DB)
+:pushpin:Skills
 
-<img src="https://img.shields.io/badge/Java-blue?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-?style=flat-square&logo=Oracle DB&logoColor=white"/>
+Languages & Framework
+<img src="https://img.shields.io/badge/Java-#007396?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=black"/>
+\n
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=?style=for-the-badge&logo=appveyor&logo=Spring Framework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=?style=for-the-badge&logo=appveyor&logo=Spring Boot&logoColor=white"/>
+
+
+DataBase
+<img src="https://img.shields.io/badge/Oracle-#F80000?style=flat-square&logo=Oracle DB&logoColor=white"/>
+
+
 
 
 
 <!--
+예시
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/>
 <a href="링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 -->
-<a href="https://hxxxxxl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FDFEFE?style=?style=social&logo=appveyor&logo=#20C997&logoColor=17202A"/></a>
+
 
 
 
@@ -19,14 +32,15 @@ SKILLS(:Language/DB)
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pracrobo&show_icons=true&theme=yeblu&show_icons=true)
 
-PROJECT
+
+:eyes:Project
 
 
 
 
 
 
-EDUCATION
+:books:Education
 
 
 
