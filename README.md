@@ -1,5 +1,8 @@
-<a href="https://hxxxxxl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FDFEFE?style=?style=social&logo=appveyor&logo=#20C997&logoColor=17202A"/></a>
 
+![Profile views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+<!--
+<a href="https://hxxxxxl.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FDFEFE?style=?style=social&logo=appveyor&logo=#20C997&logoColor=17202A"/></a>
+-->
 :pushpin:Skills
 
 Languages & Framework
@@ -37,7 +40,6 @@ DataBase
 
 
 
-https://github.com/arturssmirnovs/github-profile-views-counter
 
 
 :books:Education
