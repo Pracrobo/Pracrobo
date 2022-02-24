@@ -3,11 +3,11 @@
 :pushpin:Skills
 
 Languages & Framework
-<img src="https://img.shields.io/badge/Java-#007396?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=flat-square&logo=Java&logoColor=black"/>
 \n
-<img src="https://img.shields.io/badge/Spring-#6DB33F?style=?style=for-the-badge&logo=appveyor&logo=Spring Framework&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=?style=for-the-badge&logo=appveyor&logo=Spring Boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring Framework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
 
 DataBase
