@@ -1,9 +1,9 @@
 
 SKILLS(:Language/DB)
 
-<img src="https://img.shields.io/badge/#007396-blue?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/#F80000-?style=flat-square&logo=Oracle DB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-blue?style=?style=for-the-badge&logo=appveyor&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-?style=flat-square&logo=Oracle DB&logoColor=white"/>
+
 
 
 <!--
