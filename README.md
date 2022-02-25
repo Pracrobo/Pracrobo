@@ -28,6 +28,16 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDE%20-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 
+
+<br>
+
+## :sparkles:Interesting
+![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
+![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
+
+
+
 <!--
 예시
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -51,13 +61,6 @@
 <a href="https://developer-j.notion.site/test-b967511b7e5e4f9f9d9aa9fac1ff9fdf"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 
-<br><br>
-<!--
-## :sparkles:Interesting
-![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
--->
 
 <!---
 Pracrobo/Pracrobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
