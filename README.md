@@ -12,7 +12,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework%20-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
+
 <!--
 ### Server
 <img src="https://img.shields.io/badge/Apache%20Tomcat%20-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
@@ -25,17 +25,20 @@
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
-![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDE%20-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 
+![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDE%20-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
 
 <br>
 
 ## :sparkles:Interesting
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![amazon aws](https://img.shields.io/badge/Amazon%20AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
-
+![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 
 <!--
