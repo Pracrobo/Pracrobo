@@ -35,11 +35,12 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![amazon aws](https://img.shields.io/badge/Amazon%20AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+<!--
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
+-->
 
 <!--
 예시
