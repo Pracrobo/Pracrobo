@@ -3,7 +3,6 @@
 ## :hand: Introduce
 안녕하세요. 백엔드 개발자 Robo입니다.<br> Java 기반 웹 애플리케이션 개발 교육 과정을 수료했고 기획/개발했습니다.<br>
 프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br><b>웹 개발, 조직 문화와 커뮤니케이션, 개발 경험 공유에 관심이 많습니다.</b>
-<br><br>
 새로운 언어/라이브러리를 접하거나 it트렌드를 알아가고 아티클을 읽는 일을 좋아합니다.<br>
 
 <br>
@@ -37,11 +36,11 @@
 <br>
 
 ## :sparkles:Interesting
+![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![amazon aws](https://img.shields.io/badge/Amazon%20AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 <!--
-![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
