@@ -2,10 +2,10 @@
 
 ## :hand: Introduce
 안녕하세요. 백엔드 개발자 Robo입니다.<br> Java 기반 웹 애플리케이션 개발 교육 과정을 수료했고 기획/개발했습니다.<br>
-프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br> <b>웹 개발, 조직 문화와 커뮤니케이션, 개발 경험 공유에 관심이 많습니다.</b>
+프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br><b>웹 개발, 조직 문화와 커뮤니케이션, 개발 경험 공유에 관심이 많습니다.</b>
 <br><br>
 새로운 언어/라이브러리를 접하거나 it트렌드를 알아가고 아티클을 읽는 일을 좋아합니다.<br>
-차후에 개발 관련 아티클을 읽고 공유하는 모임을 가지거나 작업을 할 예정입니다.
+
 <br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
