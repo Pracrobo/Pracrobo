@@ -68,8 +68,6 @@
 
 <a href="https://developer-j.notion.site/test-b967511b7e5e4f9f9d9aa9fac1ff9fdf"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-
-
 <!---
 Pracrobo/Pracrobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
