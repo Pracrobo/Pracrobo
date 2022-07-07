@@ -9,34 +9,35 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
  
-## :pushpin: Skills
+## :pushpin: Learning Skills
 
 ### Languages & Framework
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![Spring Framework](https://img.shields.io/badge/Spring%20Framework%20-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
 
 <!--
 ### Server
 <img src="https://img.shields.io/badge/Apache%20Tomcat%20-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 -->
 ### DataBase
-<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 ### Tools
 ![git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
-
+![github](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
 
 ![IntelliJ IDE](https://img.shields.io/badge/IntelliJ%20IDE%20-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE%20-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 
 <br>
 
 ## :sparkles:Interesting
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![amazon aws](https://img.shields.io/badge/Amazon%20AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 <!--
