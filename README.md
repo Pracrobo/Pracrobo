@@ -2,7 +2,7 @@
 
 ## :hand: Introduce
 안녕하세요. 백엔드 개발자 Robo입니다.<br> Java 기반 웹 애플리케이션 개발 교육 과정을 수료했고 기획/개발했습니다.<br>
-프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br><b>웹 개발, 조직 문화와 커뮤니케이션, 개발 경험 공유에 관심이 많습니다.</b> <br> it트렌드를 알아가는 것을 좋아합니다.<br>
+프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br><br> 조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.</b> <br> it트렌드를 알아가는 것을 좋아합니다.<br>
 
 <br>
 
@@ -45,8 +45,8 @@
 <br>
 
 ## :sparkles:Interesting
-![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
+![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
