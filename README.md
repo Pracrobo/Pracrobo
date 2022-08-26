@@ -23,7 +23,6 @@
 -->
 ### Infra 
 ![docker](https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white)
 ![amazon aws](https://img.shields.io/badge/Amazon%20AWS%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
 
 <!--
