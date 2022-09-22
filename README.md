@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Robo&fontSize=90)
 
 ## :hand: Introduce
-안녕하세요. 백엔드 개발자 Robo입니다.<br> Java 기반 웹 애플리케이션 개발 교육 과정을 수료했고 기획/개발했습니다.<br>
+안녕하세요. 백엔드 개발자 Robo입니다.<br> Java 기반 웹 애플리케이션 개발 교육 과정을 수료했고 2개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>
 프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br><br> 조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.</b> <br> it트렌드를 알아가는 것을 좋아합니다.<br>
 
 <br>
