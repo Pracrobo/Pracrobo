@@ -1,13 +1,43 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Robo&fontSize=90)
-
-## :hand: Introduce
-안녕하세요. 백엔드 개발자 Robo입니다.<br> Java 기반 웹 애플리케이션 개발 교육 과정을 수료했고 2개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>
-프로젝트 경험은 2번, 작은 인원인 3명 ~ 5명의 팀에 소속, 1번의 팀장 경험이 있습니다.<br><br> 조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.</b> <br> it트렌드를 알아가는 것을 좋아합니다.<br>
-
-<br>
-
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Robo&fontSize=90)
+-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## :hand: Introduce
+안녕하세요. java-spring 기반 백엔드 개발자 Robo입니다.<br> 4개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.<br><br>
+## :deciduous_tree: Project
+<b>22.09 ~ (진행중) | WE:DO/back-end developer</b>
+- back-office 구축중
+- spring boot, spring data jpa, mysql, thymeleaf 사용
+- 관리자 로그인 sesssion 사용 구현
+- aws lambda, elastic beanstalk 사용 예정
+
+
+<b>21.10.19 ~ 21.11.24 | MY PICK/full-stack</b>
+- java, javascipt, spring framework, mybatis, bootstrap, oracle db 사용
+- spring MVC 적용
+- import api를 사용해 기타 금액 합산한 결제 기능 구현
+- javascript로 이미지 미리보기, 다중파일 업로드 기능 구현
+- javascript로 사용해 좋아요 기능 구현 
+- air-datepicker api 사용해 캘린더의 UX/UI 개선
+- 게시판 등록/수정/삭제/신고 구현
+- ajax로 댓글 등록/수정/삭제/신고/목록 구현
+- 회원의 마이 페이지 구현
+- bootstrap로 카드 형식의 페이지 구성
+- 검색 기능 구현
+- github, source tree 사용
+
+
+<b>21.09.03 ~ 21.10.08 | Sportogether/full-stack</b>
+- java, javascript, jsp, web socket, jdbc 사용
+- bootstarp을 사용해 메인페이지 front-end 구현<br>
+- javascript를 사용해 counter 기능이 있는 d-day구현<br>
+- 자유게시판 등록/수정/삭제/신고 구현
+- 회원 게시판 댓글 등록/삭제 구현
+- 제목+내용, 제목, 내용 기준의 검색 기능을 구현
+- 관리자 페이지 카드 형식으로 구현
+- 신고/관리에 대한 운영을 고려해 mybatis로 신고수에 따른 정렬 구현
+- 페이징 처리 구현
+ 
  
 ## :pushpin: Learning Skills
 
@@ -76,9 +106,6 @@
 <!-- github 사용수 --> 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pracrobo&show_icons=true&theme=yeblu&show_icons=true)
 <br><br>
-## :deciduous_tree: Project
-
-<a href="https://developer-j.notion.site/test-b967511b7e5e4f9f9d9aa9fac1ff9fdf"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <!---
 Pracrobo/Pracrobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
