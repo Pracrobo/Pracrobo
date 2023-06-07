@@ -3,39 +3,39 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :hand: Introduce
-안녕하세요. java-spring 기반 백엔드 개발자 Robo입니다.<br> 4개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.<br><br>
+안녕하세요. Java-Spring 기반 백엔드 개발자 Robo입니다.<br> 4개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.<br><br>
 ## :deciduous_tree: Project
-<b>22.09 ~ (진행중) | WE:DO/back-end developer</b>
-- back-office 구축중
-- spring boot, spring data jpa, mysql, thymeleaf 사용
-- 관리자 로그인 sesssion 사용 구현
-- aws lambda, elastic beanstalk 사용 예정
+<b>22.09 ~ (진행중) | WE:DO/Back-end Developer</b>
+- Back-Office 구축중
+- Spring Boot, Spring Data JPA, MySQL, Thymeleaf 사용
+- 관리자 로그인 Session 사용 구현
+- AWS lambda, Elastic Beanstalk 사용 예정
 
 
-<b>21.10.19 ~ 21.11.24 | MY PICK/full-stack</b>
-- java, javascipt, spring framework, mybatis, bootstrap, oracle db 사용
-- spring MVC 적용
-- import api를 사용해 기타 금액 합산한 결제 기능 구현
-- javascript로 이미지 미리보기, 다중파일 업로드 기능 구현
-- javascript로 사용해 좋아요 기능 구현 
-- air-datepicker api 사용해 캘린더의 UX/UI 개선
+<b>21.10.19 ~ 21.11.24 | MY PICK/Full-stack</b>
+- Java, JavaScript, Spring Framework, MyBatis, Bootstrap, Oracle DB 사용
+- Spring MVC 적용
+- Import API를 사용해 기타 금액 합산한 결제 기능 구현
+- Javascript로 이미지 미리보기, 다중파일 업로드 기능 구현
+- Javascript로 사용해 좋아요 기능 구현 
+- Air-Datepicker API 사용해 캘린더의 UI/UX 개선
 - 게시판 등록/수정/삭제/신고 구현
-- ajax로 댓글 등록/수정/삭제/신고/목록 구현
+- Ajax로 댓글 등록/수정/삭제/신고/목록 구현
 - 회원의 마이 페이지 구현
-- bootstrap로 카드 형식의 페이지 구성
+- Bootstrap로 카드 형식의 페이지 구성
 - 검색 기능 구현
-- github, source tree 사용
+- GitHub, Source Tree 사용
 
 
-<b>21.09.03 ~ 21.10.08 | Sportogether/full-stack</b>
-- java, javascript, jsp, web socket, jdbc 사용
-- bootstarp을 사용해 메인페이지 front-end 구현<br>
-- javascript를 사용해 counter 기능이 있는 d-day구현<br>
+<b>21.09.03 ~ 21.10.08 | Sportogether/Full-stack</b>
+- Java, Javascript, JSP, Web Socket, JDBC 사용
+- Bootstarp을 사용해 메인페이지 Front-end 구현<br>
+- Javascript를 사용해 counter 기능이 있는 D-day구현<br>
 - 자유게시판 등록/수정/삭제/신고 구현
 - 회원 게시판 댓글 등록/삭제 구현
 - 제목+내용, 제목, 내용 기준의 검색 기능을 구현
 - 관리자 페이지 카드 형식으로 구현
-- 신고/관리에 대한 운영을 고려해 mybatis로 신고수에 따른 정렬 구현
+- 신고/관리에 대한 운영을 고려해 MyBatis로 신고수에 따른 정렬 구현
 - 페이징 처리 구현
  
  
