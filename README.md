@@ -3,13 +3,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## :hand: Introduce
-안녕하세요. Java-Spring 기반 백엔드 개발자 Robo입니다.<br> 4개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.<br><br>
+안녕하세요. Java-Spring 개발자 Robo입니다.<br> 4개의 프로젝트를 기획/개발, 다수의 스터디에 참여/운영을 했습니다.<br>조직 문화와 커뮤니케이션, 개발 경험 공유, 개발 언어에 관심이 많습니다.<br><br>
 ## :deciduous_tree: Project
-<b>22.09 ~ (진행중) | WE:DO/Back-end Developer</b>
-- Back-Office 구축중
+<b>22.09 ~ 23.06 | WE:DO/Back-end Developer</b>
+- Back-Office 구축
 - Spring Boot, Spring Data JPA, MySQL, Thymeleaf 사용
 - 관리자 로그인 Session 사용 구현
-- AWS lambda, Elastic Beanstalk 사용 예정
+- AWS lambda, Elastic Beanstalk 사용
 
 
 <b>21.10.19 ~ 21.11.24 | MY PICK/Full-stack</b>
