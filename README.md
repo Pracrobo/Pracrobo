@@ -7,7 +7,7 @@
 ## :deciduous_tree: Project
 <b>22.09 ~ 23.06 | WE:DO/Back-end Developer</b>
 - Back-Office 구축
-- Spring Boot, Spring Data JPA, MySQL, Thymeleaf 사용
+- Spring Boot, MySQL, Thymeleaf 사용
 - 관리자 로그인 Session 사용 구현
 - AWS lambda, Elastic Beanstalk 사용
 
