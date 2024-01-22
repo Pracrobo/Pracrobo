@@ -7,7 +7,7 @@
 ## :deciduous_tree: Project
 <b>22.09 ~ 23.06 | WE:DO/Back-end Developer</b>
 - Back-Office 구축
-- Spring Boot, MySQL, Thymeleaf 사용
+- Spring Boot, MySQL 사용
 - 관리자 로그인 Session 사용 구현
 - AWS lambda, Elastic Beanstalk 사용
 
@@ -59,7 +59,6 @@
 <img src="https://img.shields.io/badge/Apache%20Tomcat%20-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 -->
 ### DataBase
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 
@@ -75,8 +74,6 @@
 
 ## :sparkles:Interesting
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white)
-![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
-![node.js](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 
 <!--
