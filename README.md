@@ -13,7 +13,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![GiHhub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
 
