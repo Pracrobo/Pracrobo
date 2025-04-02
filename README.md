@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Robo&fontSize=90)
 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPracrobo%2Fhit-counter&count_bg=%23B188D9&title_bg=%23555555&icon=&icon_color=%23370A0A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 ## :hand: Introduce
 안녕하세요. 백엔드 개발자 Robo입니다.<br>조직 문화와 커뮤니케이션, 개발 언어에 관심이 많습니다.<br><br>
 
