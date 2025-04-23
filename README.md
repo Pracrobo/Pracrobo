@@ -20,7 +20,7 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Pracrobo&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/Pracrobo?pet-id=702893399751333479"
+    src="https://render.gitanimals.org/lines/Pracrobo?pet-id=702893399755526869"
     width="500"
     height="250"
   />
