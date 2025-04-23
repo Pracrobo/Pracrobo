@@ -18,6 +18,14 @@
 ![GiHhub](https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white)
 
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Pracrobo&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Pracrobo?pet-id=702893399751333479"
+    width="500"
+    height="250"
+  />
+</a>
+  
 <!--
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=React&logoColor=white)
